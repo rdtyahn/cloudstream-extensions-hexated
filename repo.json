@@ -1,0 +1,8 @@
+{
+    "name": "Repository name here",
+    "description": "A description of your repository here",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/rdtyahn/cloudstream-extensions-hexated/refs/heads/master/plugins.json"
+    ]
+}
